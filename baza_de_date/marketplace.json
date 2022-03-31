@@ -1,1 +1,42 @@
-{"utilizatori": {"f14176f9b7c691c09f3f5de74d7f87f6": {"nume": "Samuel", "email": "samuel@gmail.com", "data_inregistrare": "2022-03-30T19:30:35.392663+03:00"}, "884ebc78c41d5e68cb9092efc30b4506": {"nume": "Andrei", "email": "andrei@gmail.com", "data_inregistrare": "2022-03-30T19:30:49.517069+03:00"}}, "produse": {"7a51affea3b1373a320fc8a0f05301c0": {"nume_produs": "apa", "pret": "2", "data_inregistrare": "2022-03-30T19:32:03.821582+03:00"}, "c9588748e6c5fd487109601135500926": {"nume_produs": "usi", "pret": "3", "data_inregistrare": "2022-03-30T19:42:17.784388+03:00"}}, "comenzi": {"aaf1bd2147b61c3b22634b2f54cb39c0": {"id_comanda": "aaf1bd2147b61c3b22634b2f54cb39c0", "detalii_comanda": {"haine": "55"}, "data_inregistrare": "2022-03-30T19:33:11.357666+03:00"}, "7a35a79868f30b26894ffa170c9fec8f": {"id_comanda": "7a35a79868f30b26894ffa170c9fec8f", "detalii_comanda": {"ulei": "33"}, "data_inregistrare": "2022-03-30T20:09:03.034391+03:00"}}}
+{
+  "utilizatori": {
+    "f14176f9b7c691c09f3f5de74d7f87f6": {
+      "nume": "Samuel",
+      "email": "samuel@gmail.com",
+      "data_inregistrare": "2022-03-30T19:30:35.392663+03:00"
+    },
+    "884ebc78c41d5e68cb9092efc30b4506": {
+      "nume": "Andrei",
+      "email": "andrei@gmail.com",
+      "data_inregistrare": "2022-03-30T19:30:49.517069+03:00"
+    }
+  },
+  "produse": {
+    "7a51affea3b1373a320fc8a0f05301c0": {
+      "nume_produs": "apa",
+      "pret": "2",
+      "data_inregistrare": "2022-03-30T19:32:03.821582+03:00"
+    },
+    "c9588748e6c5fd487109601135500926": {
+      "nume_produs": "usi",
+      "pret": "3",
+      "data_inregistrare": "2022-03-30T19:42:17.784388+03:00"
+    }
+  },
+  "comenzi": {
+    "aaf1bd2147b61c3b22634b2f54cb39c0": {
+      "id_comanda": "aaf1bd2147b61c3b22634b2f54cb39c0",
+      "detalii_comanda": {
+        "haine": "55"
+      },
+      "data_inregistrare": "2022-03-30T19:33:11.357666+03:00"
+    },
+    "7a35a79868f30b26894ffa170c9fec8f": {
+      "id_comanda": "7a35a79868f30b26894ffa170c9fec8f",
+      "detalii_comanda": {
+        "ulei": "55"
+      },
+      "data_inregistrare": "2022-03-30T20:09:03.034391+03:00"
+    }
+  }
+}
